@@ -1,16 +1,23 @@
-## Hi there 👋
+# Khagani3232's Electronics Portfolio
 
-<!--
-**Khagani3232/Khagani3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 2.6 Dark-Activated Alarm Circuit
 
-Here are some ideas to get you started:
+A dark-sensing alarm circuit built in Tinkercad using LDR, NPN Transistor, Relay, Flyback Diode and Piezo Buzzer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Components Used
+- Photoresistor (LDR)
+- 10kΩ Resistor
+- NPN Transistor (2N2222)
+- Relay SPDT (LU-5-R)
+- Flyback Diode (1N4148)
+- Piezo Buzzer
+
+### Links
+- 🔧 [Tinkercad Circuit](https://www.tinkercad.com/things/3qlm6AXiMIa)
+- 🎥 [Video Explanation](https://youtu.be/kDqtHsMD2rM)
+- 📄 [Academic Document](https://www.academia.edu/167366385/2_6_Dark_Activated_Alarm_Circuit_Research_by_Xaqani_Ceferli_verified_by_Telman_Asgaraliyev_Fizika_Muellimi_)
+
+### How it works
+When it gets dark, the LDR resistance increases, triggering the transistor which activates the relay and sounds the piezo buzzer alarm.
+
+
