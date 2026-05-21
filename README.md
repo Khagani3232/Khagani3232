@@ -21,3 +21,4 @@ A dark-sensing alarm circuit built in Tinkercad using LDR, NPN Transistor, Relay
 When it gets dark, the LDR resistance increases, triggering the transistor which activates the relay and sounds the piezo buzzer alarm.
 
 
+I couldn't put notes here I sent it via Email
